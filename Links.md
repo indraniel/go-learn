@@ -33,6 +33,7 @@ Articles & Videos
 * [Learning Go - Interfaces & Reflections](http://www.laktek.com/2012/02/13/learning-go-interfaces-reflections/)
 * [Go Object Oriented Design](http://nathany.com/good/)
 * [no methods on interfaces](http://gowithconfidence.tumblr.com/post/31735316104/interface-methods)
+* [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 
 Books
 =====
