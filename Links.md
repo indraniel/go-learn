@@ -34,6 +34,7 @@ Articles & Videos
 * [Go Object Oriented Design](http://nathany.com/good/)
 * [no methods on interfaces](http://gowithconfidence.tumblr.com/post/31735316104/interface-methods)
 * [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
+* [What are the use(s) for tags in Go? (stackoverflow)](http://stackoverflow.com/questions/10858787/what-are-the-uses-for-tags-in-go)
 
 Books
 =====
