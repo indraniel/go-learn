@@ -15,6 +15,7 @@ Interesting Projects
 * [GoLLRB](https://github.com/petar/GoLLRB) -- _data structure_
 * [set](https://github.com/fatih/set) -- _set data structure for go_
 * [go-spew](https://github.com/davecgh/go-spew) -- _deep pretty printer for Go data structures to aid in debugging_
+* [hugo](https://github.com/spf13/hugo) -- _A Fast and Flexible Static Site Generator_
 
 Articles & Videos
 =================
