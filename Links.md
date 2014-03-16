@@ -16,6 +16,7 @@ Interesting Projects
 * [set](https://github.com/fatih/set) -- _set data structure for go_
 * [go-spew](https://github.com/davecgh/go-spew) -- _deep pretty printer for Go data structures to aid in debugging_
 * [hugo](https://github.com/spf13/hugo) -- _A Fast and Flexible Static Site Generator_
+* [tree](https://github.com/natefinch/tree) -- _A statically typed binary tree in Go without casts or reflection_
 
 Articles & Videos
 =================
@@ -36,6 +37,9 @@ Articles & Videos
 * [no methods on interfaces](http://gowithconfidence.tumblr.com/post/31735316104/interface-methods)
 * [Golang channels tutorial](http://guzalexander.com/2013/12/06/golang-channels-tutorial.html)
 * [What are the use(s) for tags in Go? (stackoverflow)](http://stackoverflow.com/questions/10858787/what-are-the-uses-for-tags-in-go)
+* [Go Tips for Newbie Gophers](http://blog.natefinch.com/2014/03/go-tips-for-newbie-gophers.html?m=1)
+* [Conserving File Descriptors in Go](http://burke.libbey.me/conserving-file-descriptors-in-go/) - _Example strategies for building concurrent or parallel worker pools_
+* [Cancellation in Go, the Juju way](https://rogpeppe.wordpress.com/2014/03/15/cancellation-in-go-the-juju-way/) - _Strategies on building workflow pipelines_
 
 Books
 =====
