@@ -7,6 +7,8 @@ Code Organization
 =================
 
 * [How to Write Go Code](http://golang.org/doc/code.html)
+* [Go Project Structure and Dependencies](http://zduck.com/2014/go-project-structure-and-dependencies/)
+* [Go and Package Versioning](http://zduck.com/2014/go-and-package-versioning/)
 
 Interesting Projects
 ====================
@@ -40,6 +42,7 @@ Articles & Videos
 * [Go Tips for Newbie Gophers](http://blog.natefinch.com/2014/03/go-tips-for-newbie-gophers.html?m=1)
 * [Conserving File Descriptors in Go](http://burke.libbey.me/conserving-file-descriptors-in-go/) - _Example strategies for building concurrent or parallel worker pools_
 * [Cancellation in Go, the Juju way](https://rogpeppe.wordpress.com/2014/03/15/cancellation-in-go-the-juju-way/) - _Strategies on building workflow pipelines_
+* [Go and Github](http://blog.natefinch.com/2014/03/go-and-github.html)
 
 Books
 =====
