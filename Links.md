@@ -53,6 +53,7 @@ Books
 * [Let's Learn Go!](http://go-book.appspot.com/)
 * [Go by Example](https://gobyexample.com/)
 * [Go Bootcamp by Matt Aimonetti](http://www.golangbootcamp.com/book)
+* [Build Web Applications with Golang](https://github.com/Unknwon/build-web-application-with-golang_EN)
 
 Blogs & News
 ============
