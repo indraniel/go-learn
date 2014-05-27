@@ -43,6 +43,8 @@ Articles & Videos
 * [Conserving File Descriptors in Go](http://burke.libbey.me/conserving-file-descriptors-in-go/) - _Example strategies for building concurrent or parallel worker pools_
 * [Cancellation in Go, the Juju way](https://rogpeppe.wordpress.com/2014/03/15/cancellation-in-go-the-juju-way/) - _Strategies on building workflow pipelines_
 * [Go and Github](http://blog.natefinch.com/2014/03/go-and-github.html)
+* [Writing a Command-line Task Tracker in Go](http://takemikazuchi.github.io/2014/04/06/command-line-task-tracker-in-go/)
+* [Intro++ to Go Interfaces](http://blog.natefinch.com/2014/05/intro-to-go-interfaces.html)
 
 Books
 =====
