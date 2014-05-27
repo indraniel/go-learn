@@ -52,6 +52,7 @@ Books
 * [The Way To Go: A Thorough Introduction to the Go Programming Language](https://archive.org/details/TheWayToGo)
 * [Let's Learn Go!](http://go-book.appspot.com/)
 * [Go by Example](https://gobyexample.com/)
+* [Working with Go](https://github.com/mkaz/working-with-go)
 * [Go Bootcamp by Matt Aimonetti](http://www.golangbootcamp.com/book)
 * [Build Web Applications with Golang](https://github.com/Unknwon/build-web-application-with-golang_EN)
 
