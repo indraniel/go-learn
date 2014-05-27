@@ -19,6 +19,7 @@ Interesting Projects
 * [go-spew](https://github.com/davecgh/go-spew) -- _deep pretty printer for Go data structures to aid in debugging_
 * [hugo](https://github.com/spf13/hugo) -- _A Fast and Flexible Static Site Generator_
 * [tree](https://github.com/natefinch/tree) -- _A statically typed binary tree in Go without casts or reflection_
+* [Lanyon](https://github.com/mkaz/lanyon) -- a markdown web server
 
 Articles & Videos
 =================
