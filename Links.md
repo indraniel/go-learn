@@ -21,6 +21,9 @@ Interesting Projects
 * [tree](https://github.com/natefinch/tree) -- _A statically typed binary tree in Go without casts or reflection_
 * [Lanyon](https://github.com/mkaz/lanyon) -- a markdown web server
 * [go-astar](https://github.com/beefsack/go-astar)
+* [httprouter](http://godoc.org/github.com/julienschmidt/httprouter) -- _a trie based high performance HTTP request router_
+* [package list](http://golang.org/pkg/container/list) -- _part of golang's standard library_
+* [gengo/goship](https://github.com/gengo/goship) -- _A simple tool for deploying code to servers._
 
 Articles & Videos
 =================
