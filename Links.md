@@ -20,6 +20,7 @@ Interesting Projects
 * [hugo](https://github.com/spf13/hugo) -- _A Fast and Flexible Static Site Generator_
 * [tree](https://github.com/natefinch/tree) -- _A statically typed binary tree in Go without casts or reflection_
 * [Lanyon](https://github.com/mkaz/lanyon) -- a markdown web server
+* [go-astar](https://github.com/beefsack/go-astar)
 
 Articles & Videos
 =================
