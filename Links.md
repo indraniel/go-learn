@@ -50,6 +50,7 @@ Articles & Videos
 * [Go and Github](http://blog.natefinch.com/2014/03/go-and-github.html)
 * [Writing a Command-line Task Tracker in Go](http://takemikazuchi.github.io/2014/04/06/command-line-task-tracker-in-go/)
 * [Intro++ to Go Interfaces](http://blog.natefinch.com/2014/05/intro-to-go-interfaces.html)
+* [Is Go An Object Oriented Language?](http://spf13.com/post/is-go-object-oriented)
 
 Books
 =====
