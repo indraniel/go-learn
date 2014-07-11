@@ -51,6 +51,8 @@ Articles & Videos
 * [Writing a Command-line Task Tracker in Go](http://takemikazuchi.github.io/2014/04/06/command-line-task-tracker-in-go/)
 * [Intro++ to Go Interfaces](http://blog.natefinch.com/2014/05/intro-to-go-interfaces.html)
 * [Is Go An Object Oriented Language?](http://spf13.com/post/is-go-object-oriented)
+* [EMR Streaming in Go (NYTimes)](http://open.blogs.nytimes.com/2014/07/10/emr-streaming-in-go/?_php=true&_type=blogs&_r=0)
+* [Principles of designing Go APIs with channels](https://inconshreveable.com/07-08-2014/principles-of-designing-go-apis-with-channels/)
 
 Books
 =====
