@@ -24,6 +24,8 @@ Interesting Projects
 * [httprouter](http://godoc.org/github.com/julienschmidt/httprouter) -- _a trie based high performance HTTP request router_
 * [package list](http://golang.org/pkg/container/list) -- _part of golang's standard library_
 * [gengo/goship](https://github.com/gengo/goship) -- _A simple tool for deploying code to servers._
+* [disintegration/gift](https://github.com/disintegration/gift) -- _Go Image Filtering Toolkit_
+* [fisher-lebo/ocd](https://github.com/fisher-lebo/ocd) -- _Atom & RSS feed parser_
 
 Articles & Videos
 =================
