@@ -55,6 +55,9 @@ Articles & Videos
 * [Is Go An Object Oriented Language?](http://spf13.com/post/is-go-object-oriented)
 * [EMR Streaming in Go (NYTimes)](http://open.blogs.nytimes.com/2014/07/10/emr-streaming-in-go/?_php=true&_type=blogs&_r=0)
 * [Principles of designing Go APIs with channels](https://inconshreveable.com/07-08-2014/principles-of-designing-go-apis-with-channels/)
+* [Ten Useful Techniques in Go](http://arslan.io/ten-useful-techniques-in-go)
+* [The Empty Struct](http://dave.cheney.net/2014/03/25/the-empty-struct)
+* [Simple Go logging using Logrus](http://sergiotapia.me/simple-go-logging-using-logrus/)
 
 Books
 =====
