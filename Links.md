@@ -26,6 +26,10 @@ Interesting Projects
 * [gengo/goship](https://github.com/gengo/goship) -- _A simple tool for deploying code to servers._
 * [disintegration/gift](https://github.com/disintegration/gift) -- _Go Image Filtering Toolkit_
 * [fisher-lebo/ocd](https://github.com/fisher-lebo/ocd) -- _Atom & RSS feed parser_
+* [nfnt/resize](https://github.com/nfnt/resize) -- _Pure golang image resizing_
+* [edap/poster](https://github.com/edap/poster) -- _resize and merg images_
+* [jbrukh/bayesian](https://github.com/jbrukh/bayesian) -- _Naive Bayesian Classficiation on an arbritrary number of classes_
+* [gust1n/go-render](https://github.com/gust1n/go-render) -- _Thin wrapper of golang's html/template to provide "extends"_
 
 Articles & Videos
 =================
