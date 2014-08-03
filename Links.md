@@ -65,6 +65,7 @@ Articles & Videos
 * [Ten Useful Techniques in Go](http://arslan.io/ten-useful-techniques-in-go)
 * [The Empty Struct](http://dave.cheney.net/2014/03/25/the-empty-struct)
 * [Simple Go logging using Logrus](http://sergiotapia.me/simple-go-logging-using-logrus/)
+* [Building a Skiplist](http://openmymind.net/Building-A-Skiplist/)
 
 Books
 =====
