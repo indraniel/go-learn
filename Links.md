@@ -30,6 +30,7 @@ Interesting Projects
 * [edap/poster](https://github.com/edap/poster) -- _resize and merg images_
 * [jbrukh/bayesian](https://github.com/jbrukh/bayesian) -- _Naive Bayesian Classficiation on an arbritrary number of classes_
 * [gust1n/go-render](https://github.com/gust1n/go-render) -- _Thin wrapper of golang's html/template to provide "extends"_
+* [golang-samples](https://github.com/golang-samples) -- _Highlights many useful standard library examples_
 
 Articles & Videos
 =================
