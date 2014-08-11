@@ -68,6 +68,7 @@ Articles & Videos
 * [Simple Go logging using Logrus](http://sergiotapia.me/simple-go-logging-using-logrus/)
 * [Building a Skiplist](http://openmymind.net/Building-A-Skiplist/)
 * [Back To Basics: Hashtables](http://openmymind.net/Back-To-Basics-Hashtables/)
+* [10 things you (probably) don't know about Go](https://talks.golang.org/2012/10things.slide#1) -- _a 2012 presentation by Andrew Gerrand_
 
 Books
 =====
