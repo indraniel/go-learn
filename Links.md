@@ -16,6 +16,7 @@ Interesting Projects
 * [B-Trees](http://godoc.org/bitbucket.org/santucco/btree) -- _data structure_
 * [GoLLRB](https://github.com/petar/GoLLRB) -- _data structure_
 * [set](https://github.com/fatih/set) -- _set data structure for go_
+* [sset](https://github.com/nes1983/sset) -- _another implementation of a LLRB_
 * [go-spew](https://github.com/davecgh/go-spew) -- _deep pretty printer for Go data structures to aid in debugging_
 * [hugo](https://github.com/spf13/hugo) -- _A Fast and Flexible Static Site Generator_
 * [tree](https://github.com/natefinch/tree) -- _A statically typed binary tree in Go without casts or reflection_
