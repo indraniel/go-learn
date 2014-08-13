@@ -35,6 +35,10 @@ Interesting Projects
 * [golang-opencv](https://github.com/lazywei/go-opencv)
 * [zimbatm/direnv](https://github.com/zimbatm/direnv)
 * [Parallel Computations (Fully or Rate Limited)](https://gist.github.com/campoy/8874609) -- _Highlights the use of [`sync.WaitGroup`](http://golang.org/pkg/sync/#example_WaitGroup). It's good to compare against [Worker Pools](https://gobyexample.com/worker-pools) apporach._
+* [skratchdot/open-golang](https://github.com/skratchdot/open-golang)
+* [toqueteos/webbrowser](https://github.com/toqueteos/webbrowser)
+* [andrewstuart/hn](https://github.com/andrewstuart/hn)
+* [asaskevich/govalidator](https://github.com/asaskevich/govalidator)
 
 Articles & Videos
 =================
