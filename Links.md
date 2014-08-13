@@ -74,6 +74,8 @@ Articles & Videos
 * [Building a Skiplist](http://openmymind.net/Building-A-Skiplist/)
 * [Back To Basics: Hashtables](http://openmymind.net/Back-To-Basics-Hashtables/)
 * [10 things you (probably) don't know about Go](https://talks.golang.org/2012/10things.slide#1) -- _a 2012 presentation by Andrew Gerrand_
+* [My (Go-centric) Vim Setup](http://0value.com/my-Go-centric-Vim-setup)
+* [Testing Techniques by Andrew Gerrand at Google I/O 2014 (youtube)](https://www.youtube.com/watch?v=ndmB0bj7eyw)
 
 Books
 =====
