@@ -77,6 +77,7 @@ Articles & Videos
 * [10 things you (probably) don't know about Go](https://talks.golang.org/2012/10things.slide#1) -- _a 2012 presentation by Andrew Gerrand_
 * [My (Go-centric) Vim Setup](http://0value.com/my-Go-centric-Vim-setup)
 * [Testing Techniques by Andrew Gerrand at Google I/O 2014 (youtube)](https://www.youtube.com/watch?v=ndmB0bj7eyw)
+* [12 Go Best Practices by Fancesc Campoy Flores](https://www.youtube.com/watch?v=8D3Vmm1BGoY] -- [slides](http://talks.golang.org/2013/bestpractices.slide#1)
 
 Books
 =====
