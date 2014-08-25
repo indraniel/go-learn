@@ -40,6 +40,7 @@ Interesting Projects
 * [andrewstuart/hn](https://github.com/andrewstuart/hn)
 * [asaskevich/govalidator](https://github.com/asaskevich/govalidator)
 * [willf/bitset](https://github.com/willf/bitset) -- _See [Intro to Bit Arrays](http://www.mathcs.emory.edu/~cheung/Courses/255/Syllabus/1-C-intro/bit-array.html) for a better appreciation of this package_
+* [headzoo/gosurf](https://github.com/headzoo/gosurf) -- [`mechanize`](https://metacpan.org/release/WWW-Mechanize)-like client for Go.
 
 Articles & Videos
 =================
