@@ -82,6 +82,8 @@ Articles & Videos
 * [12 Go Best Practices by Fancesc Campoy Flores](https://www.youtube.com/watch?v=8D3Vmm1BGoY] -- [slides](http://talks.golang.org/2013/bestpractices.slide#1)
 * [How we use Go and MongoDB at MongoDB](https://www.youtube.com/watch?v=7BBBl8yeIw0#t=1912)
 * [A Tour of Go by Russ Cox](http://research.swtch.com/gotour)
+* [JSON decoding in Go](http://attilaolah.eu/2013/11/29/json-decoding-in-go/)
+* [JSON and struct composition in Go](http://attilaolah.eu/2014/09/10/json-and-struct-composition-in-go/)
 
 Books
 =====
