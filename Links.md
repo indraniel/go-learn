@@ -42,6 +42,9 @@ Interesting Projects
 * [willf/bitset](https://github.com/willf/bitset) -- _See [Intro to Bit Arrays](http://www.mathcs.emory.edu/~cheung/Courses/255/Syllabus/1-C-intro/bit-array.html) for a better appreciation of this package_
 * [headzoo/gosurf](https://github.com/headzoo/gosurf) -- [`mechanize`](https://metacpan.org/release/WWW-Mechanize)-like client for Go.
 * [ericchiang/pup](https://github.com/ericchiang/pup) -- _Parsing HTML at the command line_
+* [mdlayher/waveform](https://github.com/mdlayher/waveform) -- _Look at how the command executables are placed in the project structure_
+* [mdlayher/goat](https://github.com/mdlayher/goat) -- _Interesting Makefile for project_
+* [mitchellh/gox](https://github.com/mitchellh/gox) -- _A simple Go cross compile tool_
 
 Articles & Videos
 =================
