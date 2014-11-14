@@ -87,6 +87,7 @@ Articles & Videos
 * [A Tour of Go by Russ Cox](http://research.swtch.com/gotour)
 * [JSON decoding in Go](http://attilaolah.eu/2013/11/29/json-decoding-in-go/)
 * [JSON and struct composition in Go](http://attilaolah.eu/2014/09/10/json-and-struct-composition-in-go/)
+* [Go and JSON](https://eager.io/blog/go-and-json/)
 
 Books
 =====
