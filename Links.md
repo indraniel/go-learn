@@ -89,6 +89,7 @@ Articles & Videos
 * [JSON and struct composition in Go](http://attilaolah.eu/2014/09/10/json-and-struct-composition-in-go/)
 * [Go and JSON](https://eager.io/blog/go-and-json/)
 * [Slice Tricks](https://code.google.com/p/go-wiki/wiki/SliceTricks)
+* [How to properly contribute to a Go project](http://blog.charmes.net/2014/11/how-to-properly-contribute-to-go-project.html)
 
 Books
 =====
