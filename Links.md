@@ -102,6 +102,7 @@ Books
 * [Working with Go](https://github.com/mkaz/working-with-go)
 * [Go Bootcamp by Matt Aimonetti](http://www.golangbootcamp.com/book)
 * [Build Web Applications with Golang](https://github.com/Unknwon/build-web-application-with-golang_EN)
+* [A practical introduction to slices](https://weblogs.java.net/blog/manningpubs/archive/2014/11/20/go-practical-introduction-slices-39-savings)
 
 Blogs & News
 ============
