@@ -90,6 +90,7 @@ Articles & Videos
 * [Go and JSON](https://eager.io/blog/go-and-json/)
 * [Slice Tricks](https://code.google.com/p/go-wiki/wiki/SliceTricks)
 * [How to properly contribute to a Go project](http://blog.charmes.net/2014/11/how-to-properly-contribute-to-go-project.html)
+* [Parsing and formatting date/time in Go](http://pauladamsmith.com/blog/2011/05/go_time.html)
 
 # Discussions
 
