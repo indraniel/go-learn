@@ -91,6 +91,9 @@ Articles & Videos
 * [Slice Tricks](https://code.google.com/p/go-wiki/wiki/SliceTricks)
 * [How to properly contribute to a Go project](http://blog.charmes.net/2014/11/how-to-properly-contribute-to-go-project.html)
 
+# Discussions
+
+* [text/template: Is there a way to identify the last element of a ranging array?](https://groups.google.com/forum/#!topic/golang-nuts/mqRbR7AFJj0)
 Books
 =====
 
