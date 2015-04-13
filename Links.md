@@ -91,6 +91,7 @@ Articles & Videos
 * [Slice Tricks](https://code.google.com/p/go-wiki/wiki/SliceTricks)
 * [How to properly contribute to a Go project](http://blog.charmes.net/2014/11/how-to-properly-contribute-to-go-project.html)
 * [Parsing and formatting date/time in Go](http://pauladamsmith.com/blog/2011/05/go_time.html)
+* [Terminating a Process Started with os.exec in Golang](http://stackoverflow.com/questions/11886531/terminating-a-process-started-with-os-exec-in-golang)
 
 # Discussions
 
