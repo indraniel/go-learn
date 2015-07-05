@@ -45,6 +45,7 @@ Interesting Projects
 * [mdlayher/waveform](https://github.com/mdlayher/waveform) -- _Look at how the command executables are placed in the project structure_
 * [mdlayher/goat](https://github.com/mdlayher/goat) -- _Interesting Makefile for project_
 * [mitchellh/gox](https://github.com/mitchellh/gox) -- _A simple Go cross compile tool_
+* [Workiva/go-datastructures](https://github.com/Workiva/go-data structures)
 
 Articles & Videos
 =================
