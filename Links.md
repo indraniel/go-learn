@@ -97,6 +97,8 @@ Articles & Videos
 # Discussions
 
 * [text/template: Is there a way to identify the last element of a ranging array?](https://groups.google.com/forum/#!topic/golang-nuts/mqRbR7AFJj0)
+* [How do you get the output of a system command in Go?](http://stackoverflow.com/questions/1877045/how-do-you-get-the-output-of-a-system-command-in-go)
+
 Books
 =====
 
