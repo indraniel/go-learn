@@ -46,6 +46,7 @@ Interesting Projects
 * [mdlayher/goat](https://github.com/mdlayher/goat) -- _Interesting Makefile for project_
 * [mitchellh/gox](https://github.com/mitchellh/gox) -- _A simple Go cross compile tool_
 * [Workiva/go-datastructures](https://github.com/Workiva/go-data structures)
+* [seiflotfy/s-bitmap](https://github.com/seiflotfy/s-bitmap) -- _S-Bitmap: Distinct Counting with a Self-Learning Bitmap_
 
 Articles & Videos
 =================
